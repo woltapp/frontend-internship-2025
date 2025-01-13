@@ -39,6 +39,8 @@ The following fields are what the user interacts with in the web application:
 
 For the "text or number" inputs, we recognise that there are multiple ways to implement them in HTML, and leave the exact attributes to your judgement.
 
+Inputs should be validated, and feedback should be provided to the user, as appropriate.
+
 #### Inputs and test ids
 
 When creating web interfaces, it's important to ensure accessibility and ease of testing.
