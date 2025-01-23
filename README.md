@@ -220,4 +220,12 @@ A good check before sending your solution is to unzip the Zip archive into a new
 
 ## Q&A
 
-> We'll keep adding common questions and answers here as they come up.
+_We will keep adding common questions and answers here as they come up._
+
+> Can I use frameworks like Next.js, or styling libraries like tailwindcss or material-ui? Should I avoid them?
+
+You can use any libraries and frameworks that you are familiar with, and that you feel would best showcase your work.
+
+For example, if you find that a manual implementation of input styles or component APIs is your strong suit, and want to show it, then you might decide to skip the UI libraries. Similarly, if you are more excited or familiar with other parts of the implementation, consider using libraries to avoid getting bogged down in details.
+
+If you use a framework, please make extra sure that your submission's README file contains clear instructions for how to run it.
