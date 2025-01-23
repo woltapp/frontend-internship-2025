@@ -36,6 +36,7 @@ The following fields are what the user interacts with in the web application:
 | User latitude  | text or number input | userLatitude  | The user's latitude.                                                                                                                                             | **60.17094**                        |
 | User longitude | text or number input | userLongitude | The user's longitude.                                                                                                                                            | **24.93087**                        |
 | Get location   | button               | getLocation   | On activation, gets the user's current location, and populates the latitude and longitude fields                                                                 | N/A                                 |
+| Calculate delivery price | button | calculateDeliveryPrice | On activation, prompts the calculation of the delivery price | N/A |
 
 For the "text or number" inputs, we recognise that there are multiple ways to implement them in HTML, and leave the exact attributes to your judgement.
 
